@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "885523389185",
+    "project_id": "ieee-ssit-au-oidlfb",
+    "storage_bucket": "ieee-ssit-au-oidlfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885523389185:android:be02b2187a6468a0675900",
+        "android_client_info": {
+          "package_name": "com.mycompany.ieeessitau"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoX5ueeWqR0XnpWJv2Yc1bLu_MS47vfLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
